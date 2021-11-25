@@ -1,0 +1,1 @@
+INSERT INTO Book(id,bookId,name,edition,publisher,stock) VALUES(1,101,'After we collided', '2nd edition', 'MK publisher', 'IKIREZI Library');
